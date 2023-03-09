@@ -8,4 +8,5 @@ Keep in mind that this isn't the best circuit you can get simulating a Tic-tac-t
 
 Note that the "main" component where you can play the game isn't the completed circuit, but it's the union of different custom made circuit (just to get a clearer view of the full structure, and not a mix of incomprehensible cables)
 
+if you want an explanation for this project ask me here: https://www.linkedin.com/in/-vinaysk/
 
